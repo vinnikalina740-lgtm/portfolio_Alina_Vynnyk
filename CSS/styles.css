@@ -25,13 +25,13 @@ body {
 }
 .btn-cv {
     display: inline-block;
-    padding: 12px 24px;
+    padding: 12px 26px;
     border-radius: 999px;
     background: linear-gradient(135deg, #efd8de, #f7e8ec);
     color: #111;
     text-decoration: none;
     font-weight: 600;
-    transition: 0.3s ease;
+    transition: 0.3s;
     border: 1px solid #efd8de;
 }
 
