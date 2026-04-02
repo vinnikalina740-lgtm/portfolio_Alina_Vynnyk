@@ -23,7 +23,22 @@ body {
     position: relative;
     overflow-x: hidden;
 }
+.btn-cv {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 999px;
+    background: linear-gradient(135deg, #efd8de, #f7e8ec);
+    color: #111;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s ease;
+    border: 1px solid #efd8de;
+}
 
+.btn-cv:hover {
+    background: white;
+    transform: translateY(-2px);
+}
 /* decorative layers */
 .page-noise {
     position: fixed;
